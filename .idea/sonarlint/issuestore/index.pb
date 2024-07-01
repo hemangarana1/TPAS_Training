@@ -153,3 +153,8 @@ g
 7src/d_multithreading/a_creating_threads/MyRunnable.java,c\1\c12effe0b4349e5da387b2966ccc232d193a0e4e
 e
 5src/d_multithreading/a_creating_threads/MyThread.java,7\8\78e68e06333f27401451490e9fef586e89f8bc62
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
