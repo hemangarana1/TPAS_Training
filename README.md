@@ -1,9 +1,9 @@
-***---OOPS:---***
+***---OOPS:***
 
 1. Write a Java program to create a class called "MusicLibrary" with a collection of songs and methods to add and remove songs, and to play a random song.
 
 
-***---Collections Framework:---***
+***---Collections Framework:***
 
 **ArrayList:**
 1. Write a program to create an ArrayList of Strings and add elements to it. Then, iterate through the ArrayList and print each element.
@@ -25,7 +25,7 @@
 2. Write a program to find the intersection of two HashSet objects.
 3. Write a program to check if a specific element exists in a HashSet.
 
-***---Java 8:---***
+***---Java 8:***
 
 **Lambda Expressions:**
 1. Write a program that uses lambda expressions to implement a simple interface (e.g., Runnable, Comparator).
@@ -52,7 +52,7 @@
 1. Write a program that demonstrates the use of default methods in interfaces.
 2. Write a program that demonstrates multiple inheritance of default methods from interfaces.
 
-***---Multithreading:---***
+***---Multithreading:***
 
 **Creating Threads:**
 1. Write a program to create a simple thread by extending the Thread class and overriding its run() method.
@@ -79,7 +79,7 @@
 1. Write a program to demonstrate the use of Semaphore to control access to a shared resource.
 2. Write a program to demonstrate the use of CyclicBarrier to synchronize threads at a barrier point.
 
-***---Exception Handling:---***
+***---Exception Handling:***
 
 **Basic Exception Handling:**
 1. Write a program that divides two numbers entered by the user. Handle the ArithmeticException that may occur if the divisor is zero.
