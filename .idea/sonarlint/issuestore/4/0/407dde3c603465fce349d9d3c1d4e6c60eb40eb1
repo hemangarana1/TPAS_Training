@@ -1,0 +1,6 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ä‚òÕþÿÿÿÿJ$69a844ae-aaa5-4595-8182-2c1b0bcb40ba
+…
+java:S1612"BReplace this lambda with method reference 'Comparable::compareTo'.(Ãà–ú8˜„ÏÅ†2J$2594ce56-bb97-4244-9777-d90089acbbc2
+m	java:S106
+"+Replace this use of System.out by a logger.(»ÙÈ¾8™„ÏÅ†2J$d04610d6-a34f-43ae-815f-8071ba5db86d

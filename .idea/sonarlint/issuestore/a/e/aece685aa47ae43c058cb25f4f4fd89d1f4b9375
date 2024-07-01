@@ -1,0 +1,7 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø˜ªîþÿÿÿÿJ$9f71628c-8b47-43f2-a749-3b6561f033ad
+r
+java:S1611"/Remove the parentheses around the "s" parameter(¼½µý8§›ÕÅ†2J$a91b86e2-47b3-4153-a97a-5f4fcd5dae6f
+ƒ
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(¼½µý8ª›ÕÅ†2J$06a10744-3de6-496c-b300-a1b569332c1a
+l	java:S106"+Replace this use of System.out by a logger.(Ï’žm8¬›ÕÅ†2J$86095dd1-e9fc-4554-b9d2-234eb60b500a
